@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+nav{
+  background:#;
+  display: flex;
+  font-family: 'lato', sans-serif;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  color: #fff;
+}
+
+.main-nav
+.secondary-nav{
+  display: flex;
+  list-style: none;
+  padding: 0;
+}
+
+.main-nav li
+.secondary-nav li{
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
